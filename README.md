@@ -26,14 +26,11 @@ Sonarqube works only with JDK 11
 
 4. Start Sonarqube
 
-In windows cli,
-
+<img src="https://user-images.githubusercontent.com/5947398/102431545-10e4f800-404e-11eb-8b08-f9cda1842281.png" width="600" />
 
 ```
 #### Windows Cli
 
-<img src="https://user-images.githubusercontent.com/5947398/102431545-10e4f800-404e-11eb-8b08-f9cda1842281.png" width="600" />
-
-<img src="https://user-images.githubusercontent.com/5947398/98497626-7c81bb80-227f-11eb-9b78-ba53fec3bd60.png" width="600" />
+StartSonar.bat
 
 ```
