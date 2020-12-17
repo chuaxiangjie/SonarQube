@@ -73,10 +73,11 @@ dotnet tool install --global dotnet-sonarscanner --version 4.8.0
 ```
 #### Navigate to .Net project root directory
 
-<mark>
-dotnet sonarscanner begin /k:"NumberGenerator" /d:sonar.cs.nunit.reportsPaths=C:\Users\ran_d\source\repos\NumberGenerationNew\Tests\**\TestResults\TestResults.xml /d:sonar.cs.opencover.reportsPaths=C:\Users\ran_d\source\repos\NumberGenerationNew\Tests\**\Coverage\*.opencover.xml
-</mark>
 
+dotnet sonarscanner begin /k:"NumberGenerator" /d:sonar.cs.nunit.reportsPaths=C:\Users\ran_d\source\repos\NumberGenerationNew\Tests\**\TestResults\TestResults.xml /d:sonar.cs.opencover.reportsPaths=C:\Users\ran_d\source\repos\NumberGenerationNew\Tests\**\Coverage\*.opencover.xml
+
+
+Parameters explain
 /k:"NumberGenerator" - refer to sonarqube project name
 /d:sonar.cs.nunit.reportsPaths - specify Nunit unit tests result
 /d:sonar.cs.opencover.reportsPaths - specify Nunit unit tests coverage
