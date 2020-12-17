@@ -47,6 +47,7 @@ StartSonar.bat
 
 <img src="https://user-images.githubusercontent.com/5947398/102434521-e1cf8600-404f-11eb-9018-fffaa5a3a284.png" width="600" />
 
-<img src="https://user-images.githubusercontent.com/5947398/102434521-e1cf8600-404f-11eb-9018-fffaa5a3a284.png" width="600" />
+<img src="https://user-images.githubusercontent.com/5947398/102435354-6b338800-4051-11eb-80fc-7878e645f51a.png" width="600" />
 
 
+#### Install MSBuild
