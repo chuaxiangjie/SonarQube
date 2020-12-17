@@ -1,6 +1,4 @@
-# SonarQube
-
-# SonarQube for .Net
+# SonarQube with .Net Core
 
 Provide Code analysis and integration with NUnit
 
@@ -18,9 +16,9 @@ What things you need to install the software and how to install them
 (https://www.sonarqube.org/success-download-community-edition/)
 
 2. OpenJDK 11
-(https://download.java.net/java/ga/jdk11/openjdk-11_windows-x64_bin.zip)
+(https://download.java.net/java/ga/jdk11/openjdk-11_windows-x64_bin.zip) ####Sonarqube works only with JDK 11
 
-Sonarqube works only with JDK 11
+
 
 ```
 #### Open Visual Studio and Clone Repository
