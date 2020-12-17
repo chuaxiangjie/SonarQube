@@ -78,9 +78,9 @@ dotnet sonarscanner begin /k:"NumberGenerator" /d:sonar.cs.nunit.reportsPaths=C:
 
 
 Parameters explain
-/k:"NumberGenerator" - refer to sonarqube project name
-/d:sonar.cs.nunit.reportsPaths - specify Nunit unit tests result
-/d:sonar.cs.opencover.reportsPaths - specify Nunit unit tests coverage
+- /k:"NumberGenerator" - refer to sonarqube project name
+- /d:sonar.cs.nunit.reportsPaths - specify Nunit unit tests result
+- /d:sonar.cs.opencover.reportsPaths - specify Nunit unit tests coverage
 
 ```
 
