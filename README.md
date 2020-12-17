@@ -31,6 +31,8 @@ Sonarqube works only with JDK 11
 ```
 #### Windows Cli
 
+cd C:\Users\ran_d\Downloads\sonarqube-8.5.1.38104\sonarqube-8.5.1.38104\bin\windows-x86-64
+
 StartSonar.bat
 
 ```
