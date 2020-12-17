@@ -84,4 +84,17 @@ Parameters explain
 
 ```
 
+```
+#### Build solution
 
+dotnet build NumberGenerator.sln
+
+```
+
+
+```
+#### Execute test to generate test results/coverage files
+
+dotnet test --logger "trx;LogFileName=TestResults.trx" ^            --logger "nunit;LogFileName=TestResults.xml" ^            --results-directory ./Coverage ^            /p:CollectCoverage=true ^            /p:CoverletOutput=Coverage\ ^            /p:CoverletOutputFormat=opencover ^            /p:Exclude="[nunit.*]*
+
+```
