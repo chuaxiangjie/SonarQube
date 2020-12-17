@@ -15,16 +15,18 @@ What things you need to install the software and how to install them
 1. Install latest SonarQube Community Edition
 (https://www.sonarqube.org/success-download-community-edition/)
 
-2. Download OpenJDK 11
+2. Install latest .Net 5 SDK (Skip if already installed)
+
+3. Download OpenJDK 11
 (https://download.java.net/java/ga/jdk11/openjdk-11_windows-x64_bin.zip) 
 
 Sonarqube works only with JDK 11
 
-3. Specify JAVA_HOME environment variable
+4. Specify JAVA_HOME environment variable
 
 <img src="https://user-images.githubusercontent.com/5947398/102429364-7f758600-404d-11eb-928d-05c94404037a.png" width="600" />
 
-4. Start Sonarqube
+5. Start Sonarqube
 
 <img src="https://user-images.githubusercontent.com/5947398/102431545-10e4f800-404e-11eb-8b08-f9cda1842281.png" width="600" />
 
@@ -37,7 +39,7 @@ StartSonar.bat
 
 ```
 
-5. Launch Sonarqube http://localhost:9000
+6. Launch Sonarqube http://localhost:9000
 
 
 
@@ -50,4 +52,14 @@ StartSonar.bat
 <img src="https://user-images.githubusercontent.com/5947398/102435354-6b338800-4051-11eb-80fc-7878e645f51a.png" width="600" />
 
 
-#### Install MSBuild
+#### Install Global MSBuild scanner
+
+http://localhost:9000/documentation/analysis/scan/sonarscanner-for-msbuild/
+
+```
+#### Installation of the SonarScanner for MSBuild .NET Core Global Tool
+
+dotnet tool install --global dotnet-sonarscanner --version 4.8.0
+
+```
+
