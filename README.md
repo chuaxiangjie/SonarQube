@@ -98,3 +98,10 @@ dotnet build NumberGenerator.sln
 dotnet test --logger "trx;LogFileName=TestResults.trx" ^            --logger "nunit;LogFileName=TestResults.xml" ^            --results-directory ./Coverage ^            /p:CollectCoverage=true ^            /p:CoverletOutput=Coverage\ ^            /p:CoverletOutputFormat=opencover ^            /p:Exclude="[nunit.*]*
 
 ```
+
+```
+#### Sonarscan end
+
+dotnet sonarscanner end
+
+```
