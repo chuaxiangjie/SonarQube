@@ -36,3 +36,14 @@ cd C:\Users\ran_d\Downloads\sonarqube-8.5.1.38104\sonarqube-8.5.1.38104\bin\wind
 StartSonar.bat
 
 ```
+
+5. Launch Sonarqube http://localhost:9000
+
+
+
+### Sonarqube project setup
+
+##### Create new project
+
+<img src="https://user-images.githubusercontent.com/5947398/102434521-e1cf8600-404f-11eb-9018-fffaa5a3a284.png" width="600" />
+
