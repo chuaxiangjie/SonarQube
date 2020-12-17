@@ -41,9 +41,12 @@ StartSonar.bat
 
 
 
-### Sonarqube project setup
+## Sonarqube project setup
 
-##### Create new project
+#### Create new project
 
 <img src="https://user-images.githubusercontent.com/5947398/102434521-e1cf8600-404f-11eb-9018-fffaa5a3a284.png" width="600" />
+
+<img src="https://user-images.githubusercontent.com/5947398/102434521-e1cf8600-404f-11eb-9018-fffaa5a3a284.png" width="600" />
+
 
