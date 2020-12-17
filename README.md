@@ -16,7 +16,7 @@ What things you need to install the software and how to install them
 (https://www.sonarqube.org/success-download-community-edition/)
 
 2. OpenJDK 11
-(https://download.java.net/java/ga/jdk11/openjdk-11_windows-x64_bin.zip) ####Sonarqube works only with JDK 11
+(https://download.java.net/java/ga/jdk11/openjdk-11_windows-x64_bin.zip) Sonarqube works only with JDK 11
 
 
 
