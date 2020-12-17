@@ -70,7 +70,7 @@ dotnet tool install --global dotnet-sonarscanner --version 4.8.0
 
 
 
-```
+```diff
 #### Navigate to .Net project root directory
 
 
