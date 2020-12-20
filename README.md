@@ -20,7 +20,7 @@ What things you need to install the software and how to install them
 1. Download OpenJDK 11
 (https://download.java.net/java/ga/jdk11/openjdk-11_windows-x64_bin.zip) 
 
-Sonarqube works only with JDK 11
+> Sonarqube works only with JDK 11
 
 1. Specify JAVA_HOME environment variable
 
