@@ -15,18 +15,18 @@ What things you need to install the software and how to install them
 1. Install latest SonarQube Community Edition
 (https://www.sonarqube.org/success-download-community-edition/)
 
-1. Install latest .Net 5 SDK (Skip if already installed)
+2. Install latest .Net 5 SDK (Skip if already installed)
 
-1. Download OpenJDK 11
+3. Download OpenJDK 11
 (https://download.java.net/java/ga/jdk11/openjdk-11_windows-x64_bin.zip) 
 
-> Sonarqube works only with JDK 11
+    Sonarqube works only with JDK 11
 
-1. Specify JAVA_HOME environment variable
+4. Specify JAVA_HOME environment variable
 
 <img src="https://user-images.githubusercontent.com/5947398/102429364-7f758600-404d-11eb-928d-05c94404037a.png" width="600" />
 
-1. Start Sonarqube
+5. Start Sonarqube
 
 <img src="https://user-images.githubusercontent.com/5947398/102431545-10e4f800-404e-11eb-8b08-f9cda1842281.png" width="600" />
 
